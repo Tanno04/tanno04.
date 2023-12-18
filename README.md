@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/tanveer-zahid-9b6507261/" target="_blank">Tanveer Zahid </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
-
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4AWJOub0FgfYHtDg7_ypcyUms9-wXHDsNQ&s"  />
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
